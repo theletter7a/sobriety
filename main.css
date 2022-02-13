@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+    overflow: hidden;
+}
+div{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    font-weight: bold;
+    font-size: 5vh;
+}
